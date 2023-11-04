@@ -1,0 +1,10 @@
+name: napari-cellposetrainer
+display_name: Cellpose Trainer
+contributions:
+  commands:
+    - id: napari-cellposetrainer.make_cellpose_widget
+      python_name: napari_cellposetrainer._widget:CellposeWidget
+      title: Make Cellpose Widget
+  widgets:
+    - command: napari-cellposetrainer.make_cellpose_widget
+      display_name: Trainer
