@@ -23,21 +23,11 @@ https://napari.org/stable/plugins/index.html
 
 ## Installation
 
-You can install `napari-cellposetrainer` via [pip]:
-
-    pip install napari-cellposetrainer
-
-
-
 To install latest development version :
 
     pip install git+https://github.com/jouyun/napari-cellposetrainer.git
 
 
-## Contributing
-
-Contributions are very welcome. Tests can be run with [tox], please ensure
-the coverage at least stays the same before you submit a pull request.
 
 ## License
 
